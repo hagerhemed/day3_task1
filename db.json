@@ -1,0 +1,102 @@
+{
+  "books": [
+    {
+      "name": "The Great Gatsby",
+      "category": "Fiction",
+      "image": "https://i.pinimg.com/236x/07/5f/45/075f45438edf04dacfd5210b277fafbc.jpg",
+      "pages": 44,
+      "author": "F. Scott Fitzgerald",
+      "price": 12.99,
+      "id": "de8f"
+    },
+    {
+      "name": "The Catcher Rye",
+      "category": "Non-Fiction",
+      "image": "https://c8.alamy.com/comp/P9CE9W/book-cover-of-the-catcher-in-the-rye-by-j-d-salinger-first-edition-museum-private-collection-P9CE9W.jpg",
+      "pages": 25,
+      "author": "Yuval Noah Harari",
+      "price": 17.99,
+      "id": "c55c"
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "category": "Fiction",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg/220px-To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg",
+      "pages": 281,
+      "author": "Harper Lee",
+      "price": 10.99,
+      "id": "6577"
+    },
+    {
+      "name": "To Kill a Kingdom",
+      "category": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/41yK4jhgekL._AC_.jpg",
+      "pages": 281,
+      "author": "Harper Lee",
+      "price": 10.99,
+      "id": "5ca0"
+    }
+  ],
+  "products": [
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm-hearted love to Father, husband, or son on this Thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    }
+  ]
+}
